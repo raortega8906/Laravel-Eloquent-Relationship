@@ -2,7 +2,7 @@
 
 # Laravel-Eloquent-Relationship
 
-Este proyecto es un blog que trata sobre relacionar y consultar datos a través de Eloquent ORM, es basado en un curso de Rimorsoft Online, [Eloquent ORM (relaciones avanzadas)](https://www.youtube.com/watch?v=efocZNA5T_A&list=PLhCiuvlix-rT96yLQTTr3-eTZl6sbhVte&index=1).
+Es un proyecto que trata sobre relacionar y consultar datos a través de Eloquent ORM, es basado en un curso de Rimorsoft Online, [Eloquent ORM (relaciones avanzadas)](https://www.youtube.com/watch?v=efocZNA5T_A&list=PLhCiuvlix-rT96yLQTTr3-eTZl6sbhVte&index=1).
 
 ### Objetivos
 * El objetivo pricipal es utilizar Eloquent ORM para navegar entre tablas y obtener resultados deseados.
